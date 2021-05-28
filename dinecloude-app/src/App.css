@@ -1,0 +1,90 @@
+body {
+  background-color: #463d39;
+  background-image: url(img/woodWithFlowers.jpg);
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 50px 50px;
+  padding: 50px;
+}
+.dine {
+  margin: 30px;
+  font-family:monospace;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color:indigo;
+  text-align: center;
+}
+.recipeReturn{
+   font-family:monospace;
+  /* text-shadow: 5px 0 #232931; */
+  font-size: 2rem;
+  color:tomato;
+  text-align: center;
+
+}
+.Nav-links{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color:lavender;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+}
+li {
+  /* float: left; */
+   font-size: 18px;
+    display:inline;
+    padding: 10px 20px;
+    border-right: 1px
+}
+
+li a {
+  display: block;
+  color:purple;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+.navBar{
+  
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 50px 50px;
+  padding: 50px;
+width: 100vw;
+height: 100px;
+}
+.dine2 {
+  margin: 30px;
+  font-family:sans-serif;
+  font-style: italic;
+  font-size: 2rem;
+  color:tomato;
+  text-align: center;
+}
+.search{
+   width: 100%;
+  padding: 12px 20px;
+  margin: 8px 100px;
+  align-self: center;
+}
+.recipeContent{
+   width: 100%;
+    text-align:center;
+    margin-right: 70px;
+}
