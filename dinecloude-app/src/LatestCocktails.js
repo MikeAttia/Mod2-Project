@@ -14,7 +14,7 @@ function LatestCocktails() {
                 method: 'GET',
                 url: 'https://the-cocktail-db.p.rapidapi.com/latest.php',
                 headers: {
-                    'x-rapidapi-key': 'ac28f94365msh3afe4af5d6decbbp137933jsn3fc1a1490dd7',
+                    'x-rapidapi-key': 'acsh3afe4af5d6decbbp137933jsn3fc1a1490dd7',
                     'x-rapidapi-host': 'the-cocktail-db.p.rapidapi.com'
                 }
             };
