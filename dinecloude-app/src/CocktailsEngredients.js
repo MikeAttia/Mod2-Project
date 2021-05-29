@@ -15,7 +15,7 @@ function CocktailsEngredients() {
                 url: 'https://the-cocktail-db.p.rapidapi.com/list.php',
                 params: { i: 'list' },
                 headers: {
-                    'x-rapidapi-key': 'ac28f94365msh3afe4af5d6decbbp137933jsn3fc1a1490dd7',
+                    'x-rapidapi-key': 'ac24365msh3afe4af5d6decbbp137933jsn3fc1a1490dd7',
                     'x-rapidapi-host': 'the-cocktail-db.p.rapidapi.com'
                 }
             };
