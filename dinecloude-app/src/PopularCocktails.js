@@ -16,7 +16,7 @@ function PopularCocktails() {
                 method: 'GET',
                 url: 'https://the-cocktail-db.p.rapidapi.com/popular.php',
                 headers: {
-                    'x-rapidapi-key': 'ac28f94365msh3afe4af5d6decbbp137933jsn3fc1a1490dd7',
+                    'x-rapidapi-key': 'ah3afe4af5d6decbbp137933jsn3fc1a1490dd7',
                     'x-rapidapi-host': 'the-cocktail-db.p.rapidapi.com'
                 }
             };
