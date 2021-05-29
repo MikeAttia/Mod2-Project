@@ -22,7 +22,7 @@ function Kitchen() {
                     exclude: 'shellfish, olives'
                 },
                 headers: {
-                    'x-rapidapi-key': 'ac28f94365msh3afe4af5d6decbbp137933jsn3fc1a1490dd7',
+                    'x-rapidapi-key': 'ac2865msh3afe4af5d6decbbp137933jsn3fc1a1490dd7',
                     'x-rapidapi-host': 'spoonacular-recipe-food-nutrition-v1.p.rapidapi.com'
                 }
             };
