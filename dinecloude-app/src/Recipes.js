@@ -24,7 +24,7 @@ class Recipes extends Component {
         fetch("https://spoonacular-recipe-food-nutrition-v1.p.rapidapi.com/recipes/search?query=" + this.state.search, {
             "method": "GET",
             "headers": {
-                "x-rapidapi-key": "ac28f94365msh3afe4af5d6decbbp137933jsn3fc1a1490dd7",
+                "x-rapidapi-key": "acsh3afe4af5d6decbbp137933jsn3fc1a1490dd7",
                 "x-rapidapi-host": "spoonacular-recipe-food-nutrition-v1.p.rapidapi.com"
             }
         })
